@@ -1,1 +1,0 @@
-Disponível em: [https://www.upwork.com/](https://www.upwork.com/). Acesso em 14 de abril de 2023.

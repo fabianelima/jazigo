@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "540923df199f6c26",
+        "id": "42eb9f55c9e25dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "411b55127d97641b",
+            "id": "265b7f3680347395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. pontos de partida.md",
+                "file": "2.2 O trabalho do designer mediado por plataformas.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. pontos de partida.md",
+                "file": "2.2 O trabalho do designer mediado por plataformas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. pontos de partida.md",
+                "file": "2.2 O trabalho do designer mediado por plataformas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. pontos de partida.md"
+                "file": "2.2 O trabalho do designer mediado por plataformas.md"
               }
             }
           }
@@ -146,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "411b55127d97641b",
+  "active": "265b7f3680347395",
   "lastOpenFiles": [
-    "5. Sintetizando.md",
-    "0. pontos de partida.md",
-    "Untitled.canvas",
-    "1. O design da educação em Design.md",
+    "Freelancer.com.md",
     "2.2 O trabalho do designer mediado por plataformas.md",
-    "4.3 Experienciando o ensino superior.md",
-    "BRAIDA et al., 2019.md",
-    "DIAS; BRAGA, 2017.md",
-    "FERREIRA; BRAGA, 2016.md",
-    "RIBEIRO; LOURENÇO, 2012.md",
-    "CARVALHO, 2012.md",
-    "Ferreira e Braga (2016).md",
-    "CATANI, 2010.md",
-    "INEP, 2021.md",
-    "FONAPRACE, 2018.md",
-    "4.2 O conceito de experiência na educação.md",
-    "KOLB; KOLB, 2017.md",
-    "LARROSA, 2002.md",
-    "AFP, 2022.md",
-    "ANASTASIOU; ALVES, 2015.md",
+    "Fiverr.md",
+    "99freelas.md",
+    "Upwork.md",
+    "Workana.md",
+    "WEATHERBED, 2022.md",
+    "VIEIRA PINTO, 2005.md",
+    "VAN AMSTEL; BOTTER; GUIMARÃES, 2022.md",
+    "usuário.md",
+    "um certo tipo de formação.md",
+    "TARNOFF, 2022.md",
+    "SUZUKI, 2022.md",
+    "SUPREMO TRIBUNAL FEDERAL, 2009.md",
+    "SPITZ, 2020.md",
+    "SOUZA et al., 2020.md",
+    "SLEE, 2017.md",
+    "self paced.md",
+    "SANTOS, 2019.md",
+    "SANTOS, 2015.md",
+    "SALDANHA, 2020.md",
     "ROTH; JORNET, 2014.md",
-    "4.1 O conceito de experiência no Design.md",
-    "FREIRE, 2002.md",
-    "NORMAN, 2008.md",
-    "MENEZES, 2007.md",
-    "GARRETT, 2011.md",
-    "4. A educação como experiência.md"
+    "RIBEIRO; LOURENÇO, 2012.md",
+    "RIBEIRO, 2023.md",
+    "RAYMON, 2000.md",
+    "PYÖRIÄ, 2003.md",
+    "Untitled.canvas"
   ]
 }
