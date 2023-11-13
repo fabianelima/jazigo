@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42eb9f55c9e25dc9",
+        "id": "d35468aa264f3d92",
         "type": "tabs",
         "children": [
           {
-            "id": "265b7f3680347395",
+            "id": "d7935070ab50d558",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 O trabalho do designer mediado por plataformas.md",
+                "file": "4.2 O conceito de experiência na educação.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 O trabalho do designer mediado por plataformas.md",
+                "file": "4.2 O conceito de experiência na educação.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.2 O trabalho do designer mediado por plataformas.md",
+                "file": "4.2 O conceito de experiência na educação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.2 O trabalho do designer mediado por plataformas.md"
+                "file": "4.2 O conceito de experiência na educação.md"
               }
             }
           }
@@ -144,37 +145,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "265b7f3680347395",
+  "active": "d7935070ab50d558",
   "lastOpenFiles": [
-    "Freelancer.com.md",
+    "3.1 Mediações no mundo moderno.md",
+    "MARTÍN-BARBERO, 1998.md",
+    "2.3 A educação mediada pelas plataformas.md",
+    "SOUZA et. al, 2020.md",
+    "SOUZA et al., 2020.md",
+    "2.1 Plataformização como processo sociotécnico.md",
     "2.2 O trabalho do designer mediado por plataformas.md",
+    "POELL et al., 2020.md",
+    "Dataficação.md",
+    "2. Produzindo designers em série.md",
+    "1.2 Novos desafios para a educação em Design.md",
+    "POELL et al., 2019.md",
+    "1.1 A educação em Design no Brasil.md",
+    "PONTIS; VAN DER WAARDE, 2020.md",
+    "PONTIS; VAN DER WAARDE, 2020.md",
+    "1. O design da educação em Design.md",
+    "0. pontos de partida.md",
+    "3.3 Mediações, Design e cultura imagética.md",
+    "vide quadro 3.2.3.md",
+    "AGÊNCIA SENADO, 2016.md",
+    "RAYMOND, 2000.md",
+    "ANTUNES; BRAGA, 2009.md",
+    "Freelancer.com.md",
     "Fiverr.md",
     "99freelas.md",
     "Upwork.md",
-    "Workana.md",
-    "WEATHERBED, 2022.md",
-    "VIEIRA PINTO, 2005.md",
-    "VAN AMSTEL; BOTTER; GUIMARÃES, 2022.md",
-    "usuário.md",
-    "um certo tipo de formação.md",
-    "TARNOFF, 2022.md",
-    "SUZUKI, 2022.md",
-    "SUPREMO TRIBUNAL FEDERAL, 2009.md",
-    "SPITZ, 2020.md",
-    "SOUZA et al., 2020.md",
-    "SLEE, 2017.md",
-    "self paced.md",
-    "SANTOS, 2019.md",
-    "SANTOS, 2015.md",
-    "SALDANHA, 2020.md",
-    "ROTH; JORNET, 2014.md",
-    "RIBEIRO; LOURENÇO, 2012.md",
-    "RIBEIRO, 2023.md",
-    "RAYMON, 2000.md",
-    "PYÖRIÄ, 2003.md",
     "Untitled.canvas"
   ]
 }
