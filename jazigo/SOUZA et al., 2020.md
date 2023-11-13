@@ -1,0 +1,2 @@
+SOUZA, Sonia M. da F.; FOFANO, Clodoaldo S.; QUARTO, Lucas C.; LUQUETTI, Eliana C. F.; MANHÃES, Fernanda C. “Os encontros e desencontros do ensino presencial, a distância e remoto em tempos de Covid-19”. **Revista Transformar**. N. 14. Edição Especial Covid-19. Maio-Agosto 2020. Disponível em: [https://www.fsj.edu  
+.br/transformar/index.php/transformar/article/view/374/](https://www.fsj.edu.br/transformar/index.php/transformar/article/view/374/). Acesso em 14 de abril de 2023.

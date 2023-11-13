@@ -1,0 +1,2 @@
+FELICETTI, Maria de Fátima; TORRES, Kelly Aparecida; BORBA, Érika Loureiro; MARTINS, Pablo Luiz. “O processo de ensino-aprendizagem na ead: a percepção do discente em relação ao trabalho desenvolvido pelos tutores e professores”. **ESUD 2014** — XI Congresso Brasileiro de Ensino Superior a Distância. Florianópolis, agosto de 2014. Disponível em: [http://esud2014.nute.ufsc.br/anais-esud2014/files/  
+pdf/128199.pdf](http://esud2014.nute.ufsc.br/anais-esud2014/files/pdf/128199.pdf). Acesso em 14 de abril de 2023.
