@@ -1,0 +1,3 @@
+_Open source_ são originalmente softwares de código aberto, que podem ser inspecionados, alterados e/ou reproduzidos pela comunidade, e cujo desenvolvimento se dá de forma colaborativa. No entorno desse modelo de desenvolvimento surgiu a cultura _open source_, cujas bases filosóficas foram estabelecidas no ensaio de Eric [[RAYMOND, 2000]] chamado “A Catedral e o Bazar”.
+
+#footnote #OpenSource 

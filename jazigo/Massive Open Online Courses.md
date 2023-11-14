@@ -1,1 +1,0 @@
-_Massive Open Online Courses_ (MOOC) são materiais educacionais organizados em um modelo aberto de plataforma, pensados para a participação de qualquer pessoa com acesso a internet. Como os LMS, eles também fornecem uma estrutura de software para organizar esse conteúdo.

@@ -1,0 +1,3 @@
+PONTIS, Sheila; VAN DER WAARDE, Karel. “Looking for Alternatives: Challenging Assumptions in Design Education”. **She Ji**: The Journal of Design, Economics, and Innovation. V. 6. N. 2. 2020. P. 228-253. Disponível em: [https://www.sciencedirect.com/science/article/pii/S2405872620300307](https://www.sciencedirect.com/science/article/pii/S2405872620300307). Acesso em 14 de abril de 2023.
+
+#reference

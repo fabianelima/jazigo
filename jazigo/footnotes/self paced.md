@@ -1,0 +1,3 @@
+O chamado _self paced learning_ é uma característica de algumas experiências de aprendizagem mediadas por ferramentas digitais, sejam cursos livres ou ensino a distância. Como o aprendizado nessas plataformas é altamente individualizado, os estudantes podem percorrer suas trilhas de aprendizagem de forma independente, em seu próprio ritmo, sem cumprir prazos estabelecidos por terceiros ([[PRISCILA, 2020]]).
+
+#footnote 

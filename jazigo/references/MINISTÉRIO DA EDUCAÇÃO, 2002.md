@@ -1,0 +1,3 @@
+MINISTÉRIO DA EDUCAÇÃO. **Diretrizes Curriculares - Cursos de Graduação**. Parecer CNE/CES nº 146/2002. Disponível em: [http://portal.mec.gov.br/component/content/article?id=12991](http://portal.mec.gov.br/component/content/article?id=12991). Acesso em 14 de abril de 2023.
+
+#reference

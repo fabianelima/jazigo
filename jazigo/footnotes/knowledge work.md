@@ -1,0 +1,3 @@
+No início dos anos 2000 discutiu-se exaustivamente a nomenclatura mais apropriada para caracterizar o teletrabalho. [[HUWS, 2001]] refletiu sobre o tema a partir de um compilado de terminologias próprias do trabalho de escritório, partindo de “_white collar_”, “_non-manual_”, “_office work_”, “_telecommuter_”, “_teleworker_”, “_digital analyst_”, “_knowledge worker_”, “_information processor_”, “_e-workers_”, “_administrative professionals_”, “_administrative assistants_”. Sua escolha final, ainda que segundo ela não totalmente satisfatória mas suficientemente descritiva, foi “_information workers_”.
+
+#footnote #KnowledgeWork

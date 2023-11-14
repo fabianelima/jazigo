@@ -1,0 +1,3 @@
+DUARTE, Kamille Araújo; MEDEIROS, Laiana da Silva. “Desafios dos docentes: as dificuldades da mediação pedagógica no ensino remoto emergencial”. **Anais VII CONEDU** — Edição Online... Campina Grande: Realize Editora, 2020. Disponível em: [http://www.editorarealize.com.br/index.php/artigo/visualizar/68292](http://www.editorarealize.com.br/index.php/artigo/visualizar/68292). Acesso em 14 de abril de 2023.
+
+#reference
