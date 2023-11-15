@@ -1,3 +1,6 @@
 Oriundo do pensamento DIY — sigla para “_do-it-yourself_”; em português “faça-você-mesmo” —, que promovia a autonomia e a independência das pessoas da indústria para produzir artefatos culturais como revistas alternativas, fitas de música e peças de roupa, o movimento _maker_ se coloca como uma vertente tecnologicamente orientada desta subcultura. Envolvendo entusiastas da cultura _[[open source]]_, o movimento enfatiza a aprendizagem pela ação e pelo projeto de artefatos técnicos, usando recursos como impressoras 3D e robótica, mas também pode se inspirar em atividades mais tradicionais como o próprio artesanato ([[BLIKSTEIN, 2018]]).
 
+---
+Originating from the DIY (do-it-yourself) ethos, which promoted people’s autonomy and independence from the industry to produce cultural artefacts such as alternative magazines, music tapes, and clothing, the maker movement positions itself as a technologically oriented branch of this subculture. Involving enthusiasts of [[open source]] culture, the movement emphasises learning through action and the design of technical artefacts, using resources such as 3D printers and robotics, but it can also draw inspiration from more traditional activities such as craftsmanship ([[BLIKSTEIN, 2018]]).
+
 #footnote #maker 
