@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "03cf43a20d731ccd",
+    "id": "d9904a7c1f90c1af",
     "type": "split",
     "children": [
       {
-        "id": "6fbbbb740817fec7",
+        "id": "ccdd3fc4d634625f",
         "type": "tabs",
         "children": [
           {
-            "id": "89ae6c056e25fdda",
+            "id": "77f58f8d8b65c73e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1370c95d3b6fcc4",
+    "id": "bbae2afafd6158aa",
     "type": "split",
     "children": [
       {
-        "id": "27b81ccc23867238",
+        "id": "aadcfb8b29b4d6b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5ac04fff6a7023",
+            "id": "81b327e3b40e4699",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "da19dc159c80e386",
+            "id": "582b6fbf40d6383e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "822623191ef9455d",
+            "id": "a3b0af30d59a4036",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,21 +68,20 @@
     "width": 300
   },
   "right": {
-    "id": "d3886929d908a83f",
+    "id": "77758028382379dd",
     "type": "split",
     "children": [
       {
-        "id": "5451d4534b61ddae",
+        "id": "737b014ecd1a5d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "d760374ff61cf136",
+            "id": "724800f7f5b585f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "footnotes/affordances.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -93,19 +92,18 @@
             }
           },
           {
-            "id": "110610a7d1abc613",
+            "id": "ae723666ec5d4150",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "footnotes/affordances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5faef8d2cc85e9fe",
+            "id": "440f7fd564752d6d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,25 +114,14 @@
             }
           },
           {
-            "id": "117ae7310eac1b3c",
+            "id": "90efc240b1a7633b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "footnotes/affordances.md"
-              }
-            }
-          },
-          {
-            "id": "4f6b0485c5db2e90",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,42 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7d5ac04fff6a7023",
-  "lastOpenFiles": [
-    "grounding-theory/4.3 Experienciando o ensino superior.md",
-    "grounding-theory/4.2 O conceito de experiência na educação.md",
-    "grounding-theory/5. Sintetizando.md",
-    "grounding-theory/4.1 O conceito de experiência no Design.md",
-    "grounding-theory/4. A educação como experiência.md",
-    "grounding-theory/3.4 Mudando nossas formas de mudar pelo Design.md",
-    "grounding-theory/3.3 Mediações, Design e cultura imagética.md",
-    "grounding-theory/3.2 O sentido do tempo no trabalho mediado.md",
-    "grounding-theory/3.1 Mediações no mundo moderno.md",
-    "footnotes/moderno.md",
-    "grounding-theory/3. Dos meios às mediações na educação em Design.md",
-    "grounding-theory/0. pontos de partida.md",
-    "grounding-theory/1. O design da educação em Design.md",
-    "footnotes/dataficação.md",
-    "grounding-theory/2.3 A educação mediada pelas plataformas.md",
-    "footnotes/usuário.md",
-    "footnotes/um certo tipo de formação.md",
-    "footnotes/self paced.md",
-    "footnotes/open source.md",
-    "footnotes/Massive Open Online Courses.md",
-    "footnotes/maker.md",
-    "footnotes/Learning Management Systems.md",
-    "footnotes/knowledge work.md",
-    "footnotes/jardins murados.md",
-    "footnotes/affordances.md",
-    "grounding-theory/2.1 Plataformização como processo sociotécnico.md",
-    "grounding-theory",
-    "footnotes/Untitled.canvas",
-    "footnotes",
-    "references",
-    "Untitled.canvas"
-  ]
+  "active": "81b327e3b40e4699",
+  "lastOpenFiles": []
 }
