@@ -1,3 +1,9 @@
 DENNING, Peter J. “Is Computer Science Science?”. **Communications of The ACM**. Abril de 2005. V. 48. N. 4. P. 27-31. Disponível em: [https://homepages.dcc.ufmg.br/~fabricio/download/is_computer_science_science.pdf](https://homepages.dcc.ufmg.br/~fabricio/download/is_computer_science_science.pdf). Acesso em 14 de abril de 2023.
 
+---
+
+> Para ajudar a definir os limites da ciência, os lexicógrafos também contrastam ciência com arte. Arte se refere às práticas úteis do campo, não a desenhos e esculturas. [...] Programação, design, engenharia de software e hardware, construir e validar modelos, e construir interfaces de usuário são todas “artes da computação”. Se a estética for considerada, as artes da computação se estendem aos gráficos, layout, desenhos, fotografia, animação, música, jogos e entretenimento. Todas essas artes da computação complementam e enriquecem a ciência. ([[DENNING, 2005]]. p. 29. Tradução nossa.)
+
+No original: “_To help define the boundaries of science, lexicographers also contrast science with art. Art refers to the useful practices of a field, not to drawings or sculptures. [...] Programming, design, software and hardware engineering, building and validating models, and building user interfaces are all “computing arts.” If aesthetics is added, the computing arts extend to graphics, layout, drawings, photography, animation, music, games, and entertainment. All this computing art complements and enriches the science._”
+
 #reference
