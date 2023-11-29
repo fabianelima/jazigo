@@ -1,0 +1,1 @@
+SASCHA. “Introduction to the Zettelkasten Method”. **Zettelkasten.de**, 27 de outubro de 2020. Disponível em: https://zettelkasten.de/introduction/. Acesso em 14 de abril de 2023.

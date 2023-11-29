@@ -1,0 +1,3 @@
+_Outlines_ são formas hierárquicas de organização textual que arranjam ideias e palavras em forma de árvore, ordenando-as em itens e subitens dentro de um dado assunto. Podem ser usados para resumir conceitos ou ordenar documentações diversas em mapas de tópicos. Softwares dedicados à produção de _outlines_ são chamados de _outliners_. Editores de texto simples e gerenciadores de conteúdo do tipo _wiki_ podem ser usados na produção de _outlines_.
+
+#footnote 
