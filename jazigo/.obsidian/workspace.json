@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. introduction/0. Introduction.md",
+                "file": "1. introduction/7. In a nutshell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. introduction/0. Introduction.md",
+                "file": "1. introduction/7. In a nutshell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. introduction/0. Introduction.md",
+                "file": "1. introduction/7. In a nutshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. introduction/0. Introduction.md"
+                "file": "1. introduction/7. In a nutshell.md"
               }
             }
           },
@@ -158,22 +158,25 @@
   },
   "active": "6c4fefd7cdf5d4ff",
   "lastOpenFiles": [
-    "1. introduction/7. In a nutshell.md",
     "1. introduction/6. Method overview.md",
+    "references/GLASER; STRAUSS, 2006.md",
     "1. introduction/5. Scope.md",
     "1. introduction/4. Justification.md",
     "1. introduction/3. Objectives.md",
     "1. introduction/2. Problem.md",
     "1. introduction/1. Context.md",
+    "1. introduction/0. Introduction.md",
+    "references/PIGNATARI, 1965.md",
+    "references/PAPANEK, 2006.md",
+    "3. method",
+    "1. introduction/7. In a nutshell.md",
     "POELL et al. 2019.md",
     "references/RITTEL; WEBBER, 1973.md",
-    "1. introduction/0. Introduction.md",
     "references/PRISCILA, 2020.md",
     "references/PONTIS; VAN DER WAARDE, 2020.md",
     "references/POELL et al., 2019.md",
     "references/POELL et al., 2020.md",
     "footnotes/Dataficação.md",
-    "references/PAPANEK, 2006.md",
     "references/NIEMEYER, 2007.md",
     "2. grounding-theory/5. In a nutshell.md",
     "1. introduction",
@@ -183,8 +186,6 @@
     "2. grounding-theory/4. Education as experience.md",
     "2. grounding-theory/3.4 Changing our ways of changing through Design.md",
     "2. grounding-theory/3.3 Mediations, Design and visual culture.md",
-    "2. grounding-theory/3.2 The sense of time in mediated work.md",
-    "2. grounding-theory/3.1 Mediations in the modern world.md",
     "2. grounding-theory",
     "footnotes/Untitled.canvas",
     "footnotes",
