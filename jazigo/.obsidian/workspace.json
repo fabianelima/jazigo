@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbbbb740817fec7",
+        "id": "a93fc3068fbb9797",
         "type": "tabs",
         "children": [
           {
-            "id": "89ae6c056e25fdda",
+            "id": "17a224a787c01962",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "grounding-theory/5. In a nutshell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "footnotes/affordances.md",
+                "file": "grounding-theory/5. In a nutshell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "footnotes/affordances.md",
+                "file": "grounding-theory/5. In a nutshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "footnotes/affordances.md"
+                "file": "grounding-theory/5. In a nutshell.md"
               }
             }
           },
@@ -152,34 +156,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d5ac04fff6a7023",
+  "active": "17a224a787c01962",
   "lastOpenFiles": [
-    "grounding-theory/4.3 Experienciando o ensino superior.md",
-    "grounding-theory/4.2 O conceito de experiência na educação.md",
-    "grounding-theory/5. Sintetizando.md",
-    "grounding-theory/4.1 O conceito de experiência no Design.md",
-    "grounding-theory/4. A educação como experiência.md",
-    "grounding-theory/3.4 Mudando nossas formas de mudar pelo Design.md",
-    "grounding-theory/3.3 Mediações, Design e cultura imagética.md",
-    "grounding-theory/3.2 O sentido do tempo no trabalho mediado.md",
-    "grounding-theory/3.1 Mediações no mundo moderno.md",
-    "footnotes/moderno.md",
-    "grounding-theory/3. Dos meios às mediações na educação em Design.md",
-    "grounding-theory/0. pontos de partida.md",
-    "grounding-theory/1. O design da educação em Design.md",
-    "footnotes/dataficação.md",
-    "grounding-theory/2.3 A educação mediada pelas plataformas.md",
-    "footnotes/usuário.md",
-    "footnotes/um certo tipo de formação.md",
-    "footnotes/self paced.md",
-    "footnotes/open source.md",
-    "footnotes/Massive Open Online Courses.md",
-    "footnotes/maker.md",
-    "footnotes/Learning Management Systems.md",
-    "footnotes/knowledge work.md",
-    "footnotes/jardins murados.md",
+    "grounding-theory/4.3 Experiencing higher education.md",
+    "grounding-theory/4.2 The concept of experience in education.md",
+    "grounding-theory/4.1 The concept of experience in Design.md",
+    "grounding-theory/4. Education as experience.md",
+    "grounding-theory/3.4 Changing our ways of changing through Design.md",
+    "grounding-theory/3.3 Mediations, Design and visual culture.md",
+    "grounding-theory/3.2 The sense of time in mediated work.md",
+    "grounding-theory/3.1 Mediations in the modern world.md",
+    "grounding-theory/3. From media to mediations in Design education.md",
+    "grounding-theory/2.3 Education mediated by platforms.md",
+    "grounding-theory/2.2 The designer's work mediated by platforms.md",
+    "grounding-theory/2.1 Platformisation as a sociotechnical process.md",
+    "grounding-theory/2. The mass production of designers.md",
+    "grounding-theory/1.3 Design and Technology.md",
+    "grounding-theory/1.2 New challenges for Design education.md",
+    "grounding-theory/1.1 Design education in Brazil.md",
+    "grounding-theory/1. The design of Design education.md",
+    "grounding-theory/0. starting points.md",
+    "grounding-theory/5. In a nutshell.md",
     "footnotes/affordances.md",
-    "grounding-theory/2.1 Plataformização como processo sociotécnico.md",
+    "references/ANASTASIOU; ALVES, 2015.md",
+    "references/ABMES, 2018.md",
+    "references/AFP, 2022.md",
+    "references/AGÊNCIA SENADO, 2016.md",
+    "footnotes/moderno.md",
+    "footnotes/dataficação.md",
     "grounding-theory",
     "footnotes/Untitled.canvas",
     "footnotes",
