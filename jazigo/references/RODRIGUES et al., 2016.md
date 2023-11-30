@@ -1,0 +1,3 @@
+RODRIGUES, Cicera Sineide Dantas; THERRIEN, Jacques; FALCÃO, Giovana Maria Belém; GRANGEIRO, Manuela Fonseca. “Pesquisa em educação e bricolagem científica: rigor, multirreferencialidade e interdisciplinaridade”. **Cadernos de Pesquisa**. V. 46. N.162. Outubro/Dezembro de 2016. P. 966-982. Disponível em: https://www.scielo.br/j/cp/a/Lm5MCLHGmLMhNsGTdBTKrWG/?lang=pt&format=pdf. Acesso em 14 de abril de 2023.
+
+#reference 
