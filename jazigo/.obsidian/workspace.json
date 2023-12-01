@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/BLUMLER; KATZ, 1974.md",
+                "file": "references/GORZ, 1982.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/BLUMLER; KATZ, 1974.md",
+                "file": "references/GORZ, 1982.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/BLUMLER; KATZ, 1974.md",
+                "file": "references/GORZ, 1982.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/BLUMLER; KATZ, 1974.md"
+                "file": "references/GORZ, 1982.md"
               }
             }
           },
@@ -155,37 +156,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "307f8279a4b5e1b5",
+  "active": "7d5ac04fff6a7023",
   "lastOpenFiles": [
+    "references/GONZATTO, 2018.md",
+    "references/GLASER; STRAUSS, 2006.md",
+    "references/GENRO FILHO, 1987.md",
+    "references/GARRETT, 2011.md",
+    "references/FREITAS, 1999.md",
+    "references/FREIRE, 2002.md",
+    "references/FONAPRACE, 2018.md",
+    "references/FERREIRA, 2018.md",
+    "references/FERREIRA; BRAGA, 2016.md",
+    "references/FELICETTI et al., 2014.md",
+    "references/GORZ, 1982.md",
+    "references/HELFENSTEIN, 2023.md",
+    "references/ENSMENGER, 2010.md",
+    "zotero/refsFG.bib",
+    "references/ABMES, 2018.md",
+    "2. grounding-theory/1. The design of Design education.md",
+    "references/FERREIRA, 2016.md",
+    "references/DENNING, 2005.md",
+    "references/CHARMAZ, 2006.md",
+    "references/BLUMLER; KATZ, 1974.md",
     "references/ARTHUR, 2012.md",
     "references/AGÊNCIA SENADO, 2016.md",
     "references/AFP, 2022.md",
-    "references/ABMES, 2018.md",
-    "references/ENSMENGER, 2010.md",
     "references/DUARTE; MEDEIROS, 2020.md",
     "references/DIAS; BRAGA, 2017.md",
-    "references/DENNING, 2005.md",
     "zotero/refsDE.bib",
     "references/CUNHA-NARDY et al., 2022.md",
     "references/COSTA; PELEGRINI, 2019.md",
-    "references/CHARMAZ, 2006.md",
-    "references/CATANI, 2010.md",
-    "references/CASTRO; QUEIROZ, 2020.md",
-    "references/CASTELLS, 1999.md",
-    "references/CARVALHO, 2012.md",
-    "references/CARDOSO, 2008.md",
     "zotero/refsC.bib",
-    "references/BRASIL, 2017.md",
-    "references/BRAIDA et al., 2019.md",
-    "references/BRAGA, 2016.md",
-    "references/BOLTER; GRUSIN, 1999.md",
-    "references/BLUMLER; KATZ, 1974.md",
-    "references/BLIKSTEIN, 2018.md",
-    "references/BECCARI; PORTUGAL; PADOVANI, 2017.md",
     "zotero/refs2.bib",
-    "4. results/7. Reflections on the work so far.md",
-    "4. results/6. Results in a nutshell.md",
-    "4. results/5. An hiper textual database.md",
     "zotero/refs.bib",
     "zotero/bib.bib",
     "zotero",
@@ -202,7 +204,6 @@
     "assets/Screen Shot 2023-11-29 at 20.42.57.png",
     "assets",
     "4. results",
-    "3. method",
     "footnotes/Untitled.canvas",
     "Untitled.canvas"
   ]
