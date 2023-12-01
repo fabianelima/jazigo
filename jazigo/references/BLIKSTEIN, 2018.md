@@ -1,5 +1,7 @@
+### ABNT
 BLIKSTEIN, Paulo. “Maker Movement in Education: History and Prospects”. In: DE VRIES, Mark J. (editor). **Handbook of Technology Education**. Série Springer International Handbooks of Education. Cham (Suíça): Springer Cham, 2018. Disponível em: [https://tltlab.org/publications/maker-movement-in-education-history-and-prospects/](https://tltlab.org/publications/maker-movement-in-education-history-and-prospects/). Acesso em 14 de abril de 2023.
 
+### BibTeX
 ```bibtex
 @incollection{blikstein_maker_2018,
 	address = {Cham, Switzerland},

@@ -1,5 +1,7 @@
+### ABNT
 BLUMLER, J.; KATZ, E. **The Uses of Mass Communication**: Current Perspectives on Gratification Research. Londres, Beverly Hills: Sage, 1974.
 
+### BibTeX
 ```bibtex
 @book{blumler_uses_1974,
 	address = {London, Beverly Hills},
