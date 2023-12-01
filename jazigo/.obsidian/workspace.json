@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. results/7. Reflections on the work so far.md",
+                "file": "references/BRASIL, 2017.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. results/7. Reflections on the work so far.md",
+                "file": "references/BRASIL, 2017.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. results/7. Reflections on the work so far.md",
+                "file": "references/BRASIL, 2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. results/7. Reflections on the work so far.md"
+                "file": "references/BRASIL, 2017.md"
               }
             }
           },
@@ -157,6 +157,15 @@
   },
   "active": "307f8279a4b5e1b5",
   "lastOpenFiles": [
+    "references/BRAIDA et al., 2019.md",
+    "references/BRAGA, 2016.md",
+    "references/BOLTER; GRUSIN, 1999.md",
+    "references/BLUMLER; KATZ, 1974.md",
+    "references/BLIKSTEIN, 2018.md",
+    "references/BECCARI; PORTUGAL; PADOVANI, 2017.md",
+    "references/BRASIL, 2017.md",
+    "zotero/refs2.bib",
+    "4. results/7. Reflections on the work so far.md",
     "4. results/6. Results in a nutshell.md",
     "4. results/5. An hiper textual database.md",
     "4. results/4. Memoranda and the building of grounded theory.md",
@@ -168,8 +177,6 @@
     "references/LÉVY, 1998.md",
     "4. results/0. Introduction to results.md",
     "references/ANTUNES, 2020.md",
-    "references/BECCARI; PORTUGAL; PADOVANI, 2017.md",
-    "references/BLIKSTEIN, 2018.md",
     "references/ARTHUR, 2012.md",
     "references/ANTUNES; BRAGA, 2009.md",
     "references/ABMES, 2018.md",
@@ -181,12 +188,6 @@
     "zotero",
     "ABMES.md",
     "ABMES.bib",
-    "footnotes/usuário.md",
-    "footnotes/um certo tipo de formação.md",
-    "footnotes/self paced.md",
-    "footnotes/RQDA.md",
-    "footnotes/qualitative data analysis.md",
-    "footnotes/QualCoder.md",
     "assets/social.png",
     "assets/project.png",
     "assets/info-grounded-theory-raciocinios.png",
@@ -203,7 +204,6 @@
     "1. introduction",
     "2. grounding-theory",
     "footnotes/Untitled.canvas",
-    "footnotes",
     "Untitled.canvas"
   ]
 }
