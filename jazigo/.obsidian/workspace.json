@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/BRASIL, 2017.md",
+                "file": "references/CUNHA-NARDY et al., 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/BRASIL, 2017.md",
+                "file": "references/CUNHA-NARDY et al., 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/BRASIL, 2017.md",
+                "file": "references/CUNHA-NARDY et al., 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/BRASIL, 2017.md"
+                "file": "references/CUNHA-NARDY et al., 2022.md"
               }
             }
           },
@@ -155,15 +155,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "307f8279a4b5e1b5",
+  "active": "7d5ac04fff6a7023",
   "lastOpenFiles": [
+    "references/COSTA; PELEGRINI, 2019.md",
+    "references/CHARMAZ, 2006.md",
+    "references/CATANI, 2010.md",
+    "references/CASTRO; QUEIROZ, 2020.md",
+    "references/CASTELLS, 1999.md",
+    "references/CARVALHO, 2012.md",
+    "references/CARDOSO, 2008.md",
+    "references/CUNHA-NARDY et al., 2022.md",
+    "zotero/refsC.bib",
+    "references/BRASIL, 2017.md",
     "references/BRAIDA et al., 2019.md",
     "references/BRAGA, 2016.md",
     "references/BOLTER; GRUSIN, 1999.md",
     "references/BLUMLER; KATZ, 1974.md",
     "references/BLIKSTEIN, 2018.md",
     "references/BECCARI; PORTUGAL; PADOVANI, 2017.md",
-    "references/BRASIL, 2017.md",
     "zotero/refs2.bib",
     "4. results/7. Reflections on the work so far.md",
     "4. results/6. Results in a nutshell.md",
@@ -175,18 +184,9 @@
     "references/MATTÉ et al., 2008.md",
     "4. results/1. First surveys.md",
     "references/LÉVY, 1998.md",
-    "4. results/0. Introduction to results.md",
-    "references/ANTUNES, 2020.md",
-    "references/ARTHUR, 2012.md",
-    "references/ANTUNES; BRAGA, 2009.md",
-    "references/ABMES, 2018.md",
-    "references/AFP, 2022.md",
-    "references/ANASTASIOU; ALVES, 2015.md",
-    "references/AGÊNCIA SENADO, 2016.md",
     "zotero/refs.bib",
     "zotero/bib.bib",
     "zotero",
-    "ABMES.md",
     "ABMES.bib",
     "assets/social.png",
     "assets/project.png",
@@ -202,7 +202,6 @@
     "4. results",
     "3. method",
     "1. introduction",
-    "2. grounding-theory",
     "footnotes/Untitled.canvas",
     "Untitled.canvas"
   ]
