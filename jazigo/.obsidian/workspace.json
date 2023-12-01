@@ -11,8 +11,12 @@
             "id": "307f8279a4b5e1b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "references/AGÊNCIA SENADO, 2016.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "references/AGÊNCIA SENADO, 2016.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "references/AGÊNCIA SENADO, 2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "references/AGÊNCIA SENADO, 2016.md"
+              }
             }
           },
           {
@@ -149,50 +157,52 @@
   },
   "active": "307f8279a4b5e1b5",
   "lastOpenFiles": [
-    "4. results/7. Reflections on the work so far.md",
-    "4. results/6. Results in a nutshell.md",
-    "4. results/5. An hiper textual database.md",
-    "footnotes/grafos.md",
-    "4. results/4. Memoranda and the building of grounded theory.md",
-    "4. results/3. Emergent ideas.md",
-    "4. results/2. First codes.md",
-    "4. results/1. First surveys.md",
-    "4. results/0. Introduction to results.md",
-    "references/RODRIGUES et al., 2016.md",
-    "references/BOLTER; GRUSIN, 1999.md",
-    "assets/bricolagem.png",
-    "assets/community.png",
-    "assets/determinism.png",
-    "assets/social.png",
-    "assets/socia;.png",
-    "assets/dicotomy.png",
-    "assets/project.png",
-    "assets/Screen Shot 2023-11-29 at 20.42.42.png",
-    "assets/Screen Shot 2023-11-29 at 20.42.57.png",
-    "assets/Screen Shot 2023-11-29 at 20.43.13.png",
-    "assets",
-    "3. method/3. Research development strategy.md",
-    "3. method/1. The research problem.md",
-    "references/SASCHA, 2020.md",
-    "footnotes/outlines.md",
+    "references/AFP, 2022.md",
+    "references/ABMES, 2018.md",
+    "references/AGÊNCIA SENADO, 2016.md",
+    "zotero/refs.bib",
+    "zotero/bib.bib",
+    "zotero",
+    "references/ARTHUR, 2012.md",
+    "references/ANTUNES; BRAGA, 2009.md",
+    "references/ANTUNES, 2020.md",
+    "references/ANASTASIOU; ALVES, 2015.md",
+    "ABMES.md",
+    "ABMES.bib",
+    "footnotes/usuário.md",
+    "footnotes/um certo tipo de formação.md",
+    "footnotes/self paced.md",
     "footnotes/RQDA.md",
     "footnotes/qualitative data analysis.md",
+    "footnotes/QualCoder.md",
+    "footnotes/outlines.md",
+    "footnotes/open source.md",
+    "footnotes/NVivo.md",
+    "footnotes/moderno.md",
+    "footnotes/MAXQDA.md",
+    "footnotes/Massive Open Online Courses.md",
+    "footnotes/maker.md",
+    "footnotes/Learning Management Systems.md",
+    "footnotes/knowledge work.md",
+    "footnotes/jardins murados.md",
+    "footnotes/grafos.md",
+    "assets/social.png",
+    "assets/project.png",
+    "assets/info-grounded-theory-raciocinios.png",
+    "assets/dicotomy.png",
+    "assets/determinism.png",
+    "assets/community.png",
+    "assets/bricolagem.png",
+    "assets/socia;.png",
+    "assets/Screen Shot 2023-11-29 at 20.42.42.png",
+    "assets/Screen Shot 2023-11-29 at 20.42.57.png",
+    "assets",
     "4. results",
-    "3. method/0. Method.md",
-    "2. grounding-theory/1.3 Design and Technology.md",
-    "1. introduction/3. Objectives.md",
-    "1. introduction/2. Problem.md",
-    "1. introduction/1. Context.md",
-    "1. introduction/0. Introduction.md",
-    "3. method/7. The method in a nutshell.md",
-    "3. method/6. Analysis strategy.md",
-    "3. method/5. Data collection protocol.md",
     "3. method",
     "1. introduction",
     "2. grounding-theory",
     "footnotes/Untitled.canvas",
     "footnotes",
-    "references",
     "Untitled.canvas"
   ]
 }

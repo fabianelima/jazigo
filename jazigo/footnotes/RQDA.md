@@ -4,4 +4,4 @@ RQDA is an open source and multi platform software package for qualitative data 
 
 O RQDA é um pacote para análise de dados qualitativos multiplataforma e de código aberto, integrado à linguagem de programação R. Disponível em: https://rqda.r-forge.r-project.org/. Acesso em 14 de abril de 2023.
 
-#footnote 
+#footnote #qda
