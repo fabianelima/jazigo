@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/CUNHA-NARDY et al., 2022.md",
+                "file": "references/BLUMLER; KATZ, 1974.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/CUNHA-NARDY et al., 2022.md",
+                "file": "references/BLUMLER; KATZ, 1974.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/CUNHA-NARDY et al., 2022.md",
+                "file": "references/BLUMLER; KATZ, 1974.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/CUNHA-NARDY et al., 2022.md"
+                "file": "references/BLUMLER; KATZ, 1974.md"
               }
             }
           },
@@ -155,8 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d5ac04fff6a7023",
+  "active": "307f8279a4b5e1b5",
   "lastOpenFiles": [
+    "references/ARTHUR, 2012.md",
+    "references/AGÊNCIA SENADO, 2016.md",
+    "references/AFP, 2022.md",
+    "references/ABMES, 2018.md",
+    "references/ENSMENGER, 2010.md",
+    "references/DUARTE; MEDEIROS, 2020.md",
+    "references/DIAS; BRAGA, 2017.md",
+    "references/DENNING, 2005.md",
+    "zotero/refsDE.bib",
+    "references/CUNHA-NARDY et al., 2022.md",
     "references/COSTA; PELEGRINI, 2019.md",
     "references/CHARMAZ, 2006.md",
     "references/CATANI, 2010.md",
@@ -164,7 +174,6 @@
     "references/CASTELLS, 1999.md",
     "references/CARVALHO, 2012.md",
     "references/CARDOSO, 2008.md",
-    "references/CUNHA-NARDY et al., 2022.md",
     "zotero/refsC.bib",
     "references/BRASIL, 2017.md",
     "references/BRAIDA et al., 2019.md",
@@ -177,13 +186,6 @@
     "4. results/7. Reflections on the work so far.md",
     "4. results/6. Results in a nutshell.md",
     "4. results/5. An hiper textual database.md",
-    "4. results/4. Memoranda and the building of grounded theory.md",
-    "4. results/3. Emergent ideas.md",
-    "4. results/2. First codes.md",
-    "references/TRISKA et al., 2014.md",
-    "references/MATTÉ et al., 2008.md",
-    "4. results/1. First surveys.md",
-    "references/LÉVY, 1998.md",
     "zotero/refs.bib",
     "zotero/bib.bib",
     "zotero",
@@ -201,7 +203,6 @@
     "assets",
     "4. results",
     "3. method",
-    "1. introduction",
     "footnotes/Untitled.canvas",
     "Untitled.canvas"
   ]
