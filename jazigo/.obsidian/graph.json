@@ -5,20 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag: #footnote",
       "color": {
         "a": 1,
-        "rgb": 7237230
+        "rgb": 3684408
       }
     },
     {
       "query": "tag: #reference  ",
       "color": {
         "a": 1,
-        "rgb": 12763842
+        "rgb": 8882055
       }
     },
     {
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.13199869791667,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 7.45442708333333,
-  "linkStrength": 0.01171875,
-  "linkDistance": 30,
-  "scale": 0.05145878931678014,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.06381022135417,
+  "lineSizeMultiplier": 0.8716064453125,
+  "collapse-forces": true,
+  "centerStrength": 0.218017578125,
+  "repelStrength": 9.71354166666667,
+  "linkStrength": 0.88037109375,
+  "linkDistance": 182,
+  "scale": 0.1195366494358969,
   "close": false
 }
