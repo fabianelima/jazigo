@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/ROTH; JORNET, 2014.md",
+                "file": "references/SALDANHA, 2020.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/ROTH; JORNET, 2014.md",
+                "file": "references/SALDANHA, 2020.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/ROTH; JORNET, 2014.md",
+                "file": "references/SALDANHA, 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/ROTH; JORNET, 2014.md"
+                "file": "references/SALDANHA, 2020.md"
               }
             }
           },
@@ -155,8 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d5ac04fff6a7023",
+  "active": "307f8279a4b5e1b5",
   "lastOpenFiles": [
+    "references/RITTEL; WEBBER, 1973.md",
+    "references/SALDANHA, 2020.md",
+    "references/ROTH; JORNET, 2014.md",
+    "references/PYÖRIÄ, 2003.md",
+    "references/RODRIGUES et al., 2016.md",
+    "references/RIBEIRO; LOURENÇO, 2012.md",
+    "references/RIBEIRO, 2023.md",
+    "references/RAYMOND, 2000.md",
+    "references/PRISCILA, 2020.md",
+    "references/PONTIS; VAN DER WAARDE, 2020.md",
+    "references/POELL et al., 2020.md",
+    "references/POELL et al., 2019.md",
+    "references/PIGNATARI, 1965.md",
+    "references/PEMBERTON, 2006.md",
+    "references/PAPANEK, 2006.md",
+    "references/PAN, 2012.md",
+    "zotero/refsPR.bib",
     "references/OAKLEY, 2014.md",
     "references/NORMAN, 2008.md",
     "references/NIEMEYER, 2007.md",
@@ -166,24 +183,7 @@
     "references/MENEZES, 2007.md",
     "references/MEIRELLES, 2022.md",
     "references/MEGGS; PURVIS, 2009.md",
-    "references/MATTÉ et al., 2008.md",
-    "references/MARTÍN-BARBERO, 1998.md",
-    "references/MACHADO, 2011.md",
-    "references/LOVE, 2000.md",
     "zotero/refsMO.bib",
-    "references/HELFENSTEIN, 2023.md",
-    "2. grounding-theory/1. The design of Design education.md",
-    "2. grounding-theory/5. In a nutshell.md",
-    "2. grounding-theory/3. From media to mediations in Design education.md",
-    "2. grounding-theory/0. Starting points.md",
-    "2. grounding-theory/3.3 Mediations, Design and visual culture.md",
-    "references/LINDKVIST, 2005.md",
-    "references/LIMA; CALOMENO, 2021.md",
-    "references/LÉVY, 1998.md",
-    "references/LATOUR, 2013.md",
-    "references/LASSWELL, 1948.md",
-    "references/LARROSA, 2002.md",
-    "references/KOPP, 2004.md",
     "zotero/refsHL.bib",
     "zotero/refsFG.bib",
     "zotero/refsDE.bib",
@@ -192,7 +192,6 @@
     "zotero/refs.bib",
     "zotero/bib.bib",
     "zotero",
-    "ABMES.bib",
     "assets/social.png",
     "assets/project.png",
     "assets/info-grounded-theory-raciocinios.png",
