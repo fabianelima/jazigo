@@ -1,3 +1,7 @@
+---
+tags:
+  - bibnotes
+---
 ## Challenging Assumptions in Design Education
 
 **Sheila Pontis** é argentina, graduada pela Universidade de Buenos Aires em Design Gráfico, com pós-graduação em técnicas editoriais, mestrado em design da informação pela Universidade de Barcelona e doutorado pela Universidade de Artes de Londres. Lecionou em diversas instituições, como a Universidade de Princeton, MIT, Universidade do Mar del Plata; ela se descreve como uma designer da informação, educadora e pesquisadora, trabalhando com essas atividades de forma integrada. Como pesquisadora, faz uso da abordagem etnográfica, investigando cognição, resolução de problemas com criatividade e o comportamento das pessoas em ambientes informacionais.

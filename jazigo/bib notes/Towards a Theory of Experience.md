@@ -1,3 +1,7 @@
+---
+tags:
+  - bibnotes
+---
 Nos estudos em educação, a ideia de que se aprende através da experiência é um truísmo, mas ainda assim este é um conceito bem pouco explorado. Neste artigo, os autores vão usar a filosofia de John Dewey e Lev Vygotsky (em russo, a palavra é _perezivanie_) para embasar o seu conceito de experiência na educação, visto aqui como uma categoria de análise mínima, que inclui pessoas, seu entorno social e material, suas relações, trocas e afetos, bem como a mudança propriamente dita.
 
 Eles diferenciam a natureza contínua da experiência daquelas experiências concluídas, que podem ser diferenciadas como _uma_ experiência particular. _Uma_ experiência é aquela que se destaca em meio ao fluxo das outras experiências comuns, e pode ser nomeada. Enquanto categoria de análise mínima, atores e meios se determinam mutuamente e são indissociáveis, interagindo transacionalmente e se constituindo e se transformando no curso da atividade prática. A experiência integra as dimensões física e prática, intelectual e afetiva, de forma que elas são interconectadas. Os participantes das experiências não estão apenas sujeitos a ela, mas são sujeitos dela e são por ela sujeitados. As experiências são coloridas pelas emoções e pelas contradições entre as pessoas, se mostrando às vezes como dramas sociais.
