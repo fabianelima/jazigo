@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/SALDANHA, 2020.md",
+                "file": "references/WEATHERBED, 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/SALDANHA, 2020.md",
+                "file": "references/WEATHERBED, 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/SALDANHA, 2020.md",
+                "file": "references/WEATHERBED, 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/SALDANHA, 2020.md"
+                "file": "references/WEATHERBED, 2022.md"
               }
             }
           },
@@ -155,34 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "307f8279a4b5e1b5",
+  "active": "7d5ac04fff6a7023",
   "lastOpenFiles": [
-    "references/RITTEL; WEBBER, 1973.md",
+    "references/VILLAS-BOAS, 1998.md",
+    "references/VIEIRA PINTO, 2005.md",
+    "references/VAN AMSTEL; BOTTER; GUIMARÃES, 2022.md",
+    "references/TRISKA et al., 2014.md",
+    "references/TARNOFF, 2022.md",
+    "references/SUZUKI, 2022.md",
+    "references/SUPREMO TRIBUNAL FEDERAL, 2009.md",
+    "references/STRAUSS; CORBIN, 1990.md",
+    "references/SPITZ, 2020.md",
+    "references/SOUZA et al., 2020.md",
+    "references/SLEE, 2017.md",
+    "references/SASCHA, 2020.md",
+    "references/SANTOS, 2019.md",
+    "references/SANTOS, 2018.md",
+    "references/SANTOS, 2015.md",
     "references/SALDANHA, 2020.md",
+    "zotero/refsSW.bib",
+    "references/WEATHERBED, 2022.md",
     "references/ROTH; JORNET, 2014.md",
+    "references/RITTEL; WEBBER, 1973.md",
     "references/PYÖRIÄ, 2003.md",
     "references/RODRIGUES et al., 2016.md",
     "references/RIBEIRO; LOURENÇO, 2012.md",
     "references/RIBEIRO, 2023.md",
     "references/RAYMOND, 2000.md",
     "references/PRISCILA, 2020.md",
-    "references/PONTIS; VAN DER WAARDE, 2020.md",
-    "references/POELL et al., 2020.md",
-    "references/POELL et al., 2019.md",
-    "references/PIGNATARI, 1965.md",
-    "references/PEMBERTON, 2006.md",
-    "references/PAPANEK, 2006.md",
-    "references/PAN, 2012.md",
     "zotero/refsPR.bib",
-    "references/OAKLEY, 2014.md",
-    "references/NORMAN, 2008.md",
-    "references/NIEMEYER, 2007.md",
-    "references/MOURÃO et al., 2021.md",
-    "references/MINISTÉRIO DA EDUCAÇÃO, 2002.md",
-    "references/MILLER; SLATER, 2001.md",
-    "references/MENEZES, 2007.md",
-    "references/MEIRELLES, 2022.md",
-    "references/MEGGS; PURVIS, 2009.md",
     "zotero/refsMO.bib",
     "zotero/refsHL.bib",
     "zotero/refsFG.bib",
@@ -191,7 +192,6 @@
     "zotero/refs2.bib",
     "zotero/refs.bib",
     "zotero/bib.bib",
-    "zotero",
     "assets/social.png",
     "assets/project.png",
     "assets/info-grounded-theory-raciocinios.png",
