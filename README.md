@@ -7,13 +7,13 @@
 
 This repository encloses my Doctorate research as it was — with minor corrections, some changes and some aditions — at the time it passed its qualifying phase, when it was evaluated by the mandatory board exam in May 16th, 2023. I’ve converted it from its original form to an [Obsidian vault](https://help.obsidian.md/Getting+started/Create+a+vault): that’s why its called “Jazigo”. 
 
-The original text in PDF as submited to the board exam was translated to English with a little help from ChatGPT and obviously revised later, as ChatGPT proved to be a bit biased and even tried to change the meaning of the text in some occasions. I also added all my reading notes (_fichamentos_) from all references cited, to ground my work-in-process theory to its theoretical foundations. Those notes weren't translated, though.
+The original text in PDF as submited to the board exam was translated to English with a little help from ChatGPT and obviously revised later, as ChatGPT proved to be a bit biased and even tried to change the meaning of the text in some occasions. The Portuguese version was kept, so this is a bilingual edition of my thesis. I also added all my reading notes/_fichamentos_ from all references cited, to ground my work-in-process theory to its theoretical foundations. Those notes weren’t translated, though.
 
 ![Graph view on Obsidian](graph-view.png)
 
 My research is guided by the Grounded Theory method. There is still a lot to do: it was recently approved by the Committee for Ethics in Research in Humanities and Social Sciences of Universidade Federal do Paraná, and soon I will start interviewing people, but the interviewing of bibliographical data are still in course. Soon I will build another repository to deal with the Grounded Theory itself.
 
-You can see my slide presentation for the board exam by [clicking here](http://fabianelima.com/UFPR/quali).
+You can see my slide presentation for the board exam (in Portuguese) by [clicking here](http://fabianelima.com/UFPR/quali).
 
 
 ## Abstract
