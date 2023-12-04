@@ -1,3 +1,7 @@
+---
+aliases:
+  - a certain type of training
+---
 Assim como para tornar-se um designer não é necessário possuir um diploma, para tornar-se jornalista também não: em 2009, o Supremo Tribunal Federal decidiu pela inconstitucionalidade da exigência de diploma de graduação para exercer a profissão com base no entendimento de que essa exigência poderia ser um entrave para a liberdade de expressão, dado que restringe a manifestação de pensamento a uma classe específica de profissionais ([[SUPREMO TRIBUNAL FEDERAL, 2009]]).
 
 ---

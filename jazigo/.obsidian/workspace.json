@@ -11,8 +11,13 @@
             "id": "c6e16407aa372cf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. grounding-theory/1.3 Design and Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. grounding-theory/1.3 Design and Technology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. grounding-theory/1.3 Design and Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. grounding-theory/1.3 Design and Technology.md"
+              }
             }
           },
           {
@@ -149,21 +159,12 @@
   },
   "active": "c6e16407aa372cf2",
   "lastOpenFiles": [
-    "2. grounding-theory/4.3 Experiencing higher education.md",
-    "references/BRAIDA et al., 2019.md",
-    "1. introduction/0. Introduction.md",
-    "references/RIBEIRO, 2023.md",
-    "bib notes/Usuários e Produção da Existência – Contribuições de Álvaro Vieira Pinto e Paulo Freire à interação humano-computador.md",
-    "bib notes/Towards a Theory of Experience.md",
-    "bib notes/The Internet – an ethnographic approach.md",
-    "bib notes/The Discovery of Grounded Theory – strategies for qualitative research.md",
-    "bib notes/Platformisation.md",
-    "bib notes/Philosophy of Design – a meta-theoretical structure for design theory.md",
-    "bib notes/Os Currículos Mínimos de Desenho Industrial de 1969 e 1987 – origens, constituição e diálogo no campo do Design.md",
-    "bib notes/O ensino de Comunicação Visual nos anos 1960 – estudo de caso da FAU USP.md",
-    "bib notes/O conhecimento especializado em design – considerações a respeito do processo de ensino e aprendizagem.md",
-    "bib notes/Notas sobre a experiência e o saber de experiência.md",
+    "footnotes/um certo tipo de formação.md",
+    "references/SUPREMO TRIBUNAL FEDERAL, 2009.md",
+    "2. grounding-theory/1.3 Design and Technology.md",
+    "2. grounding-theory/3.4 Changing our ways of changing through Design.md",
     "bib notes/Modelo para estabelecer competências para o futuro do design orientado pelas tecnologias emergentes.md",
+    "bib notes/Notas sobre a experiência e o saber de experiência.md",
     "bib notes/Looking for Alternatives – Challenging Assumptions in Design Education.md",
     "bib notes/Jamais Fomos Modernos.md",
     "bib notes/Is Computer Science Science?.md",
@@ -173,7 +174,16 @@
     "bib notes/Constructing Grounded Theory – a practical guide through qualitative analysis.md",
     "bib notes/Bauhaus – uma pedagogia para o design.md",
     "bib notes/A pós-graduação stricto sensu do Design no Brasil – uma leitura.md",
-    "Competências em disciplinas de Projeto de Produto.md",
+    "references/MATTÉ et al., 2008.md",
+    "4. results/0. Introduction to results.md",
+    "4. results/3. Emergent ideas.md",
+    "4. results/2. First codes.md",
+    "4. results/1. First surveys.md",
+    "4. results/7. Reflections on the work so far.md",
+    "4. results/6. Results in a nutshell.md",
+    "4. results/5. An hiper textual database.md",
+    "4. results/4. Memoranda and the building of grounded theory.md",
+    "footnotes/jardins murados.md",
     "footnotes/usuário.md",
     "bib notes",
     "zotero/refsSW.bib",
