@@ -20,7 +20,9 @@ This research, in its qualifying phase, emerges from questions about the experie
 ---
 
 Universidade Federal do Paraná
+
 Programa de Pós-Graduação em Design
 
 Advisor: Professor Dr. Carolina Calomeno
+
 Curitiba, 2023
