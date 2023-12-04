@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "abbdd81660eab2e5",
+        "id": "bbdfb05d0657bf13",
         "type": "tabs",
         "children": [
           {
-            "id": "016bcc03a5a30c3e",
+            "id": "c6e16407aa372cf2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "016bcc03a5a30c3e",
+  "active": "c6e16407aa372cf2",
   "lastOpenFiles": [
     "2. grounding-theory/4.3 Experiencing higher education.md",
     "references/BRAIDA et al., 2019.md",
