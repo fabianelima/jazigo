@@ -2,8 +2,6 @@
 tags:
   - bibnotes
 ---
-## Comunicación, cultura y hegemonía
-
 # Prólogo
 Escrito por Nestor García Canclini, o prólogo do livro começa ressaltando a importância da obra.
 

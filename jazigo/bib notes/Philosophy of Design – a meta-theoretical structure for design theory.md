@@ -2,8 +2,6 @@
 tags:
   - bibnotes
 ---
-## a meta-theoretical structure for design theory
-
 - Teoria do design como um artefato a ser construído: análise do problema. 
 
 - Filosofia do Design como diferente da Design Philosophy por buscar investigar aspectos de como o Design constrói seu conhecimento, e não como se busca construir coisas a partir de uma perspectiva do Design.

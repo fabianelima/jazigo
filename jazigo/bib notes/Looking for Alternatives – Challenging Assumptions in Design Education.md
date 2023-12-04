@@ -2,14 +2,6 @@
 tags:
   - bibnotes
 ---
-## Challenging Assumptions in Design Education
-
-**Sheila Pontis** é argentina, graduada pela Universidade de Buenos Aires em Design Gráfico, com pós-graduação em técnicas editoriais, mestrado em design da informação pela Universidade de Barcelona e doutorado pela Universidade de Artes de Londres. Lecionou em diversas instituições, como a Universidade de Princeton, MIT, Universidade do Mar del Plata; ela se descreve como uma designer da informação, educadora e pesquisadora, trabalhando com essas atividades de forma integrada. Como pesquisadora, faz uso da abordagem etnográfica, investigando cognição, resolução de problemas com criatividade e o comportamento das pessoas em ambientes informacionais.
-
-**Karel Van Der Waarde** atualmente mora na Bélgica, mas é natural dos Países Baixos. Formado pela Academia de Design Industrial de Eindhoven nos anos 1980, tem mestrado em design da informação pelo Politécnico de Leicester e doutorado pela Universidade de Reading. Atuou profissionalmente como professor, designer e consultor em vários países da Europa. Seus interesses de pesquisa incluem design da informação aplicado a materiais e folhetos médicos, competências em educação em design gráfico, retórica e argumentação visual, tipografia, entre outros.
-
----
-
 O artigo parte da identificação de nove mudanças que afetaram o cenário do design e o seu impacto na educação em quatro áreas: a prática da profissão, o ambiente de ensino, o perfil dos estudantes e a sua pedagogia. Os autores propõem, com base em dois casos de disciplinas lecionadas por eles, uma abordagem focada nos estudantes, baseada em pesquisa e em estudos científicos.
 
 # understanding the current state of design education
@@ -54,6 +46,12 @@ Depois dos seus relatos, os autores do artigo discutem as implicações de adota
 O artigo encerra comentando que nenhuma dessas sugestões apresentadas é realmente nova, mas sim a forma como eles articulam essas sugestões dentro do contexto do ensino do design. Os autores apontam que a sua análise revela que os professores precisam também ser preparados nessas novas técnicas e métodos de ensino, de modo a desenvolverem um sílabo individualizado para os seus estudantes e também responder a ampla variedade de questionamentos que eles podem fazer. A variedade de repertórios dos estudantes também é apontada por eles como um desafio a ser tratado, uma vez que é difícil mantê-los motivados dado que cada um deles chega aos cursos trazidos por diferentes motivações. Os autores também comentam que a colaboração com professores e profissionais de outras disciplinas também pode ajudar no compartilhamento de conhecimento e na provisão de feedbacks apropriados aos estudantes.
 
 Ainda que os casos relatados por eles no artigo tenham sido experiências de sucesso, os autores apontam a necessidade de desenvolver mais pesquisa na educação em design. As nove mudanças e as quatro dimensões onde essas mudanças acontecem nesse contexto podem prover um delineamento inicial para guiar as pesquisas nesse sentido, dado que o design é uma prática que muda rapidamente e o seu ensino precisa estar adaptado a essas mudanças.
+
+---
+
+**Sheila Pontis** é argentina, graduada pela Universidade de Buenos Aires em Design Gráfico, com pós-graduação em técnicas editoriais, mestrado em design da informação pela Universidade de Barcelona e doutorado pela Universidade de Artes de Londres. Lecionou em diversas instituições, como a Universidade de Princeton, MIT, Universidade do Mar del Plata; ela se descreve como uma designer da informação, educadora e pesquisadora, trabalhando com essas atividades de forma integrada. Como pesquisadora, faz uso da abordagem etnográfica, investigando cognição, resolução de problemas com criatividade e o comportamento das pessoas em ambientes informacionais.
+
+**Karel Van Der Waarde** atualmente mora na Bélgica, mas é natural dos Países Baixos. Formado pela Academia de Design Industrial de Eindhoven nos anos 1980, tem mestrado em design da informação pelo Politécnico de Leicester e doutorado pela Universidade de Reading. Atuou profissionalmente como professor, designer e consultor em vários países da Europa. Seus interesses de pesquisa incluem design da informação aplicado a materiais e folhetos médicos, competências em educação em design gráfico, retórica e argumentação visual, tipografia, entre outros.
 
 ---
 

@@ -2,8 +2,6 @@
 tags:
   - bibnotes
 ---
-## Contribuições de Álvaro Vieira Pinto e Paulo Freire à interação humano-computador
-
 - Reflexão conceitual sobre o termo "usuário": relação entre pessoas e tecnologias; pessoas que produzem (ou são alienadas dessa produção) suas existências a partir das possibilidades da tecnologia, e o papel desses artefatos na construção da autonomia desses usuários.
 - IHC: estudos interdisciplinares, com uma variedade de abordagens metodológicas e disciplinares, focados na relação das pessoas com a tecnologia, privilegiando análise, avaliação e projeto de artefatos interativos computacionais. A pluralidade de abordagens faz a área quase desaparecer nos anos 1970, mas ela ressurge com as abordagens cognitivas a partir dos anos 1980. Essas abordagens são criticadas por isolar a dimensão cognitiva dos indivíduos do seu contexto social, físico, etc. Outras abordagens, mais voltadas ao contexto social de uso dos artefatos, surgem entre os anos 1980 e 90.
 - Concepções de "usuário" na IHC: sua conceituação nesses estudos depende dos pressupostos teóricos adotados.

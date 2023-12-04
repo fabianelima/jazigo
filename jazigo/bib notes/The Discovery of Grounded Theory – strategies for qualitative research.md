@@ -2,8 +2,6 @@
 tags:
   - bibnotes
 ---
-## strategies for qualitative research
-
 # preface
 
 > “...“grand theory” is still so influential and prevalent that for many researchers it is synonymous with “theory”—and so they think of “theory” as having little relevance to their research. They have resolutely continued to focus on their empirical studies and on their efforts to improve the methodology of verification.” (P. vii)

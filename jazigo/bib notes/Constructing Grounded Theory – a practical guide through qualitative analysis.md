@@ -2,9 +2,6 @@
 tags:
   - bibnotes
 ---
-## a practical guide through qualitative analysis
-
----
 # Preface
 
 O livro começa advertindo que este se trata de um conjunto de _guidelines_ para a prática da pesquisa qualitativa, mas que o que determinará a forma como essas recomendações são aplicadas é a própria jornada do pesquisador. Também ressalta que alguns pesquisadores afirmam usar essas recomendações da Grounded Theory, mas só as usam para justificar a condução de pesquisas qualitativas.

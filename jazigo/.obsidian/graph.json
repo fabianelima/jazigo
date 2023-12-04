@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag: #footnote",
@@ -60,13 +60,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 1.06381022135417,
+  "nodeSizeMultiplier": 1.24285481770833,
   "lineSizeMultiplier": 0.8716064453125,
   "collapse-forces": true,
   "centerStrength": 0.218017578125,
   "repelStrength": 9.71354166666667,
   "linkStrength": 0.88037109375,
   "linkDistance": 182,
-  "scale": 0.1195366494358969,
+  "scale": 0.1267391267858501,
   "close": true
 }
