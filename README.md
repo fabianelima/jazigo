@@ -7,7 +7,7 @@
 
 This repository encloses my Doctorate research as it was — with minor corrections, some changes and some aditions — at the time it passed its qualifying phase, when it was evaluated by the mandatory board exam in May 16th, 2023. I’ve converted it from its original form to an [Obsidian vault](https://help.obsidian.md/Getting+started/Create+a+vault): that’s why its called “Jazigo”. 
 
-The original text in PDF as submited to the board exam was translated to English with a little help from ChatGPT and obviously revised later, as ChatGPT proved to be a bit biased and even tried to change the meaning of the text in some occasions. The Portuguese version was kept, so this is a bilingual edition of my thesis. I also added all my reading notes/_fichamentos_ from all references cited, to ground my work-in-process theory to its theoretical foundations. Those notes weren’t translated, though.
+The original text in PDF as submited to the board exam was translated to English with a little help from ChatGPT and obviously revised later, as ChatGPT proved to be a bit biased and even tried to change the meaning of the text in some occasions. The Portuguese version was kept, so this is a bilingual edition of my thesis. I also added all my reading notes/_fichamentos_ from some of the references cited, to ground my work-in-process theory to its theoretical foundations. Those notes weren’t translated, though.
 
 ![Graph view on Obsidian](graph-view.png)
 
